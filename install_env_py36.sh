@@ -9,4 +9,4 @@ pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install gym==0.10.4 -i https://pypi.tuna.tsinghua.edu.cn/simple  
 
-python3 l_pole_36.py 
+python3 rl_pole_36.py 
